@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "851080959255",
+    "firebase_url": "https://taxinn-868f7.firebaseio.com",
+    "project_id": "taxinn-868f7",
+    "storage_bucket": "taxinn-868f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851080959255:android:2923b9924ea33986",
+        "android_client_info": {
+          "package_name": "com.bhargav.taxinn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851080959255-ieihhq50jf8k0o62hme88ghiv61ienpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGuEiaJerBLCBPoShpF0tkhBtfHT_sRWk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
